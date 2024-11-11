@@ -39,3 +39,7 @@ Using some old HTML codes to not use CSS, now the second draft has spacing.
 Example of the new version of the code running.
 
 After more study i decided to remake the code to be more clean.
+Here is the new version of the CV
+
+![image](https://github.com/user-attachments/assets/7da30fb0-1e34-40a7-b56a-2cf4c432dc3c)
+Code was basicaly remade from scrach
