@@ -1,0 +1,21 @@
+body {
+    padding: 60px;
+}
+
+h4 {
+    color: #4fad61;
+    font-size: 18px;
+}
+
+h3 {
+    color: #1d73c3;
+}
+
+address {
+    font-style: normal;
+}
+
+p.dateBellow {
+    line-height: 0em;
+    padding-bottom: 10px;
+}
