@@ -37,3 +37,5 @@ Example of the code running.
 Using some old HTML codes to not use CSS, now the second draft has spacing.
 ![image](https://github.com/user-attachments/assets/2e216bdd-cc7f-4186-abda-f37c7d0152c7)
 Example of the new version of the code running.
+
+After more study i decided to remake the code to be more clean.
