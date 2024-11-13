@@ -43,3 +43,6 @@ Here is the new version of the CV
 
 ![image](https://github.com/user-attachments/assets/7da30fb0-1e34-40a7-b56a-2cf4c432dc3c)
 Code was basicaly remade from scrach
+
+Configured the cv to be more faithfull with the image, but also using the recent CSS techniques
+![image](https://github.com/user-attachments/assets/b7578280-8e12-4d58-a0aa-e258d4c8d4db)
