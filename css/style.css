@@ -1,21 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    padding: 60px;    
+}
+
 body {
     padding: 60px;
+    border: 3px solid black;
+}
+
+hr {
+    background-color: black;
+    color: black;
+    width: 75%;
+    height: 0.3rem;
+}
+
+h1 {
+    padding-bottom: 1em;
 }
 
 h4 {
     color: #4fad61;
     font-size: 18px;
+    padding-bottom: 1em;
 }
 
 h3 {
     color: #1d73c3;
+    padding-bottom: 1em;
 }
 
 address {
     font-style: normal;
+    padding-bottom: 1em;
+}
+
+p {
+    padding-bottom: 1em;
 }
 
 p.dateBellow {
     line-height: 0em;
-    padding-bottom: 10px;
+    padding-bottom: 1.5em;
 }
